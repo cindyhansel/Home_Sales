@@ -27,4 +27,4 @@ In this challenge, you'll use your knowledge of SparkSQL to determine key metric
 
 - The time to complete improves with caching, at 0.95 seconds.
 
-- Partitioning proved even slightly faster, at 0.85 seconds.
+- Partitioning proved slightly faster, at 0.85 seconds.
