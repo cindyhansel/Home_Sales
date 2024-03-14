@@ -15,10 +15,10 @@ In this challenge, you'll use your knowledge of SparkSQL to determine key metric
 
 - Note the time to complete the last question.
 
-### Next we cache the data and answer the latter question:
+### Cache the data and answer the latter question:
 - Note the time difference.
 
-### Then we partition the and answer the same question:
+### Partition the data and answer the same question:
 - Again, note the time difference.
 
 ### Observations:
